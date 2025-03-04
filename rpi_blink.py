@@ -11,4 +11,4 @@ for i in range(10):
     GPIO.output(pin_led, 1)
     time.sleep(1)
 
-GPIO.cleanup()
+#GPIO.cleanup()
